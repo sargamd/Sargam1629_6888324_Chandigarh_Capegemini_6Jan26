@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1CUcapegemini", "ConsoleApp1CUcapegemini.csproj", "{FA77C015-FDA6-424E-B6F2-B301E7749538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA77C015-FDA6-424E-B6F2-B301E7749538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA77C015-FDA6-424E-B6F2-B301E7749538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA77C015-FDA6-424E-B6F2-B301E7749538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA77C015-FDA6-424E-B6F2-B301E7749538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E88A8B2-7E54-4ACD-A8B9-F99B43B05BFC}
+	EndGlobalSection
+EndGlobal

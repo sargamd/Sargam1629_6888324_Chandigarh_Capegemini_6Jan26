@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradeApp", "StudentGradeApp.csproj", "{58FA17CE-262B-4693-8D25-C7C30C8E21D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitStudentGrade.Tests", "..\XUnitStudentGrade.Tests\XUnitStudentGrade.Tests.csproj", "{F82D9463-32B6-40EB-9EE3-C0DB5AE17466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FA17CE-262B-4693-8D25-C7C30C8E21D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FA17CE-262B-4693-8D25-C7C30C8E21D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FA17CE-262B-4693-8D25-C7C30C8E21D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FA17CE-262B-4693-8D25-C7C30C8E21D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82D9463-32B6-40EB-9EE3-C0DB5AE17466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82D9463-32B6-40EB-9EE3-C0DB5AE17466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82D9463-32B6-40EB-9EE3-C0DB5AE17466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82D9463-32B6-40EB-9EE3-C0DB5AE17466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA30770-5172-4B96-96AF-AD83042FFF53}
+	EndGlobalSection
+EndGlobal

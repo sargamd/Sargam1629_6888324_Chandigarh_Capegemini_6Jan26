@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\bin\Debug\net9.0\UniqueWords.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\bin\Debug\net9.0\UniqueWords.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\bin\Debug\net9.0\UniqueWords.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\bin\Debug\net9.0\UniqueWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\bin\Debug\net9.0\UniqueWords.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\UniqueWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\UniqueWords.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\UniqueWords.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\UniqueWords.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\UniqueWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\refint\UniqueWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\UniqueWords.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\UniqueWords.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\UniqueWords\obj\Debug\net9.0\ref\UniqueWords.dll

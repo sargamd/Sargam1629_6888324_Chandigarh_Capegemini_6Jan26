@@ -1,0 +1,28 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\refint\RemoveNegativeValuesArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\RemoveNegativeValuesArray\obj\Debug\net9.0\ref\RemoveNegativeValuesArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\bin\Debug\net9.0\RemoveNegativeValuesArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\refint\RemoveNegativeValuesArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\RemoveNegativeValuesArray.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\RemoveNegativeValuesArray\obj\Debug\net9.0\ref\RemoveNegativeValuesArray.dll

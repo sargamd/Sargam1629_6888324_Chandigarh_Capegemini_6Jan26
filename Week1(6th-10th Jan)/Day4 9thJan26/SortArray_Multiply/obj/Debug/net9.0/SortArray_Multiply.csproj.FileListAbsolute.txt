@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\SortArray_Multiply.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\SortArray_Multiply.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\SortArray_Multiply.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\SortArray_Multiply.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\bin\Debug\net9.0\SortArray_Multiply.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\bin\Debug\net9.0\SortArray_Multiply.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\bin\Debug\net9.0\SortArray_Multiply.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\bin\Debug\net9.0\SortArray_Multiply.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\bin\Debug\net9.0\SortArray_Multiply.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\SortArray_Multiply.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\refint\SortArray_Multiply.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\SortArray_Multiply.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\SortArray_Multiply.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\SortArray_Multiply\obj\Debug\net9.0\ref\SortArray_Multiply.dll

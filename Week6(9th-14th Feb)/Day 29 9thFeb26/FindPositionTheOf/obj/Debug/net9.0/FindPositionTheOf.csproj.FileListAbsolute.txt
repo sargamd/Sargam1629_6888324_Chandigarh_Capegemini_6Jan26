@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\bin\Debug\net9.0\FindPositionTheOf.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\bin\Debug\net9.0\FindPositionTheOf.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\bin\Debug\net9.0\FindPositionTheOf.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\bin\Debug\net9.0\FindPositionTheOf.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\bin\Debug\net9.0\FindPositionTheOf.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\FindPositionTheOf.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\FindPositionTheOf.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\FindPositionTheOf.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\FindPositionTheOf.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\FindPositionTheOf.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\refint\FindPositionTheOf.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\FindPositionTheOf.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\FindPositionTheOf.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\FindPositionTheOf\obj\Debug\net9.0\ref\FindPositionTheOf.dll

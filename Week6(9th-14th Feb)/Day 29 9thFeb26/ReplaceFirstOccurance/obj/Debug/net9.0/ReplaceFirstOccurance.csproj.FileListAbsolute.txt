@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\bin\Debug\net9.0\ReplaceFirstOccurance.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\bin\Debug\net9.0\ReplaceFirstOccurance.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\bin\Debug\net9.0\ReplaceFirstOccurance.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\bin\Debug\net9.0\ReplaceFirstOccurance.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\bin\Debug\net9.0\ReplaceFirstOccurance.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ReplaceFirstOccurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ReplaceFirstOccurance.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ReplaceFirstOccurance.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ReplaceFirstOccurance.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ReplaceFirstOccurance.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\refint\ReplaceFirstOccurance.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ReplaceFirstOccurance.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ReplaceFirstOccurance.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReplaceFirstOccurance\obj\Debug\net9.0\ref\ReplaceFirstOccurance.dll

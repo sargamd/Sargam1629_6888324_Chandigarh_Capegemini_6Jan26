@@ -1,0 +1,118 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.csproj.AssemblyReference.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.Form1.resources
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.csproj.GenerateResource.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinForms.EC252CD3.Up2Date
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\refint\WinFormsApp_Connection.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\ref\WinFormsApp_Connection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\WinFormsApp_Connection.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.csproj.AssemblyReference.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.Form1.resources
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.csproj.GenerateResource.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinForms.EC252CD3.Up2Date
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\refint\WinFormsApp_Connection.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\WinFormsApp_Connection.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week1(6th-10th Jan)\Day2 7thJan26\WinFormsApp_Connection\WinFormsApp_Connection\obj\Debug\net9.0-windows\ref\WinFormsApp_Connection.dll

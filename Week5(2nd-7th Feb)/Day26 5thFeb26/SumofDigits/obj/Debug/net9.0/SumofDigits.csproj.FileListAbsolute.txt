@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\bin\Debug\net9.0\SumofDigits.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\bin\Debug\net9.0\SumofDigits.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\bin\Debug\net9.0\SumofDigits.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\bin\Debug\net9.0\SumofDigits.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\bin\Debug\net9.0\SumofDigits.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\SumofDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\SumofDigits.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\SumofDigits.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\SumofDigits.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\SumofDigits.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\refint\SumofDigits.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\SumofDigits.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\SumofDigits.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofDigits\obj\Debug\net9.0\ref\SumofDigits.dll

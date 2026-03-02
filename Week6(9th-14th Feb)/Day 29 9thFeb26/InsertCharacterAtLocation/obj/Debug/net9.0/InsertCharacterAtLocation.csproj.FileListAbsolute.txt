@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\bin\Debug\net9.0\InsertCharacterAtLocation.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\bin\Debug\net9.0\InsertCharacterAtLocation.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\bin\Debug\net9.0\InsertCharacterAtLocation.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\bin\Debug\net9.0\InsertCharacterAtLocation.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\bin\Debug\net9.0\InsertCharacterAtLocation.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\InsertCharacterAtLocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\InsertCharacterAtLocation.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\InsertCharacterAtLocation.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\InsertCharacterAtLocation.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\InsertCharacterAtLocation.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\refint\InsertCharacterAtLocation.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\InsertCharacterAtLocation.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\InsertCharacterAtLocation.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertCharacterAtLocation\obj\Debug\net9.0\ref\InsertCharacterAtLocation.dll

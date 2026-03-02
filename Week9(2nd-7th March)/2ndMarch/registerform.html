@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration & Login Form</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #7aa273, #bdd835);
+        }
+
+        .container {
+            width: 350px;
+        }
+
+        .form-card {
+            background: white;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        }
+
+        .form-card h2 {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            outline: none;
+            transition: 0.3s;
+        }
+
+        input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 5px rgba(102,126,234,0.5);
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 15px;
+            border: none;
+            border-radius: 8px;
+            background: #1fb71a;
+            color: white;
+            font-size: 15px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background: #5a67d8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    
+    <div class="form-card">
+        <h2>Register</h2>
+        <form>
+            <label for="r-username">Username</label>
+            <input type="text" id="r-username" placeholder="Enter username">
+
+            <label for="r-email">Email</label>
+            <input type="email" id="r-email" placeholder="Enter email">
+
+            <label for="r-password">Password</label>
+            
+            <input type="password" id="r-password" placeholder="Enter password">
+
+            <button type="submit">Register</button>
+        </form>
+    </div>
+
+    
+    <div class="form-card">
+        <h2>Login</h2>
+        <form>
+            <label for="l-username">Username</label>
+            <input type="text" id="l-username" placeholder="Enter username">
+
+            <label for="l-password">Password</label>
+            
+            <input type="password" id="l-password" placeholder="Enter password">
+
+            <button type="submit">Login</button>
+        </form>
+    </div>
+
+</div>
+
+</body>
+</html>

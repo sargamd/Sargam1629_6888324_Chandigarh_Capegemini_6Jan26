@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SortPipeSeperatedWords/1.0.0": {
+        "runtime": {
+          "SortPipeSeperatedWords.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortPipeSeperatedWords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

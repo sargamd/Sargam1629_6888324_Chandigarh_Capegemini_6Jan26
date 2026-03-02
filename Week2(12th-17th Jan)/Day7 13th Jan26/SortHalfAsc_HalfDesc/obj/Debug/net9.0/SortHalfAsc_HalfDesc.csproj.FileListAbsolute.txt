@@ -1,0 +1,28 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\refint\SortHalfAsc_HalfDesc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\ref\SortHalfAsc_HalfDesc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\bin\Debug\net9.0\SortHalfAsc_HalfDesc.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\refint\SortHalfAsc_HalfDesc.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\SortHalfAsc_HalfDesc.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week2(12th-17th Jan)\Day7 13th Jan26\SortHalfAsc_HalfDesc\obj\Debug\net9.0\ref\SortHalfAsc_HalfDesc.dll

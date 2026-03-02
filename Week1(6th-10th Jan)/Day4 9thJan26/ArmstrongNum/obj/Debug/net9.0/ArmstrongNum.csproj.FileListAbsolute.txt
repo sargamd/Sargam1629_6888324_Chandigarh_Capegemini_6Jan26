@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\bin\Debug\net9.0\ArmstrongNum.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\bin\Debug\net9.0\ArmstrongNum.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\bin\Debug\net9.0\ArmstrongNum.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\bin\Debug\net9.0\ArmstrongNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\bin\Debug\net9.0\ArmstrongNum.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ArmstrongNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ArmstrongNum.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ArmstrongNum.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ArmstrongNum.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ArmstrongNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\refint\ArmstrongNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ArmstrongNum.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ArmstrongNum.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\ArmstrongNum\obj\Debug\net9.0\ref\ArmstrongNum.dll

@@ -1,0 +1,7 @@
+rules for writing subqueries: 
+1.subquery is enclosed in ()
+2.it uses select clause
+3.order by cannot use in subquery
+4.subquery that returns more than 1 row can only be used with multiple value operator e.g  IN, NOT IN
+5.It cannot immediately be enclosed in SET function.
+6. between operator cannot use in subquery but possible in main query

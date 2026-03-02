@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\GreaterElementArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\GreaterElementArray.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\GreaterElementArray.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\GreaterElementArray.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\bin\Debug\net9.0\GreaterElementArray.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\bin\Debug\net9.0\GreaterElementArray.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\bin\Debug\net9.0\GreaterElementArray.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\bin\Debug\net9.0\GreaterElementArray.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\bin\Debug\net9.0\GreaterElementArray.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\GreaterElementArray.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\refint\GreaterElementArray.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\GreaterElementArray.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\GreaterElementArray.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\GreaterElementArray\obj\Debug\net9.0\ref\GreaterElementArray.dll

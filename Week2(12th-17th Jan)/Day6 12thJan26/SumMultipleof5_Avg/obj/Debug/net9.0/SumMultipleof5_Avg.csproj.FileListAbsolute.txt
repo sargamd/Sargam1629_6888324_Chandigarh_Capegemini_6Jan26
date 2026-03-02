@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\bin\Debug\net9.0\SumMultipleof5_Avg.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\bin\Debug\net9.0\SumMultipleof5_Avg.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\bin\Debug\net9.0\SumMultipleof5_Avg.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\bin\Debug\net9.0\SumMultipleof5_Avg.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\bin\Debug\net9.0\SumMultipleof5_Avg.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\SumMultipleof5_Avg.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\SumMultipleof5_Avg.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\SumMultipleof5_Avg.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\SumMultipleof5_Avg.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\SumMultipleof5_Avg.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\refint\SumMultipleof5_Avg.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\SumMultipleof5_Avg.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\SumMultipleof5_Avg.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumMultipleof5_Avg\obj\Debug\net9.0\ref\SumMultipleof5_Avg.dll

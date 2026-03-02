@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+        }
+
+        table {
+            width: 80%;
+            margin: 30px auto;
+            border-collapse: collapse;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            background-color: white;
+        }
+
+        caption {
+            font-size: 22px;
+            font-weight: bold;
+            padding: 12px;
+        }
+
+        thead {
+            background-color: #2c3e50;
+            color: white;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tbody tr:hover {
+            background-color: #d1ecf1;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <caption>Student Grade Report</caption>
+
+    <thead>
+        <tr>
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>Subject</th>
+            <th>Marks</th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>101</td>
+            <td>Rahul</td>
+            <td>Mathematics</td>
+            <td>85</td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>102</td>
+            <td>Anita</td>
+            <td>Science</td>
+            <td>78</td>
+            <td>B+</td>
+        </tr>
+        <tr>
+            <td>103</td>
+            <td>Karan</td>
+            <td>English</td>
+            <td>92</td>
+            <td>A+</td>
+        </tr>
+        <tr>
+            <td>104</td>
+            <td>Sneha</td>
+            <td>Computer</td>
+            <td>88</td>
+            <td>A</td>
+        </tr>
+    </tbody>
+
+</table>
+
+</body>
+</html>

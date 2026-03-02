@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AvgOddsum_EvenSum/1.0.0": {
+        "runtime": {
+          "AvgOddsum_EvenSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvgOddsum_EvenSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

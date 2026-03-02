@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\bin\Debug\net9.0\RemoveLastOccurance.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\bin\Debug\net9.0\RemoveLastOccurance.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\bin\Debug\net9.0\RemoveLastOccurance.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\bin\Debug\net9.0\RemoveLastOccurance.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\bin\Debug\net9.0\RemoveLastOccurance.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\RemoveLastOccurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\RemoveLastOccurance.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\RemoveLastOccurance.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\RemoveLastOccurance.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\RemoveLastOccurance.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\refint\RemoveLastOccurance.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\RemoveLastOccurance.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\RemoveLastOccurance.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveLastOccurance\obj\Debug\net9.0\ref\RemoveLastOccurance.dll

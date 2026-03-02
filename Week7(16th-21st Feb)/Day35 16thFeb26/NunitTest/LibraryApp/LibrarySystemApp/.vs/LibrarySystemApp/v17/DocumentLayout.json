@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\LibrarySystemApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB1AEF-85EC-4048-A79C-09E5BE7E0B25}|LibrarySystemApp.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\librarysystemapp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB1AEF-85EC-4048-A79C-09E5BE7E0B25}|LibrarySystemApp.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884F834C-BBF6-4B71-A0A4-D5AFE79EAE35}|..\\NunitLibraryTestProject\\NunitLibraryTestProject.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\nunitlibrarytestproject\\librarytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB1AEF-85EC-4048-A79C-09E5BE7E0B25}|LibrarySystemApp.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\librarysystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB1AEF-85EC-4048-A79C-09E5BE7E0B25}|LibrarySystemApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884F834C-BBF6-4B71-A0A4-D5AFE79EAE35}|..\\NunitLibraryTestProject\\NunitLibraryTestProject.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\nunitlibrarytestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryTest.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\NunitLibraryTestProject\\LibraryTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitLibraryTestProject\\LibraryTest.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\NunitLibraryTestProject\\LibraryTest.cs",
+              "RelativeToolTip": "..\\NunitLibraryTestProject\\LibraryTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:09:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\NunitLibraryTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NunitLibraryTestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\NunitLibraryTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NunitLibraryTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:08:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\LibrarySystemApp\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\LibrarySystemApp\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:38:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\LibrarySystemApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\LibrarySystemApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:37:19.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

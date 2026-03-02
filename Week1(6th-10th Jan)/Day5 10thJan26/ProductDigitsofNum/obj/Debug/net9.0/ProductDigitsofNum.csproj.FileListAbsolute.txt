@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\bin\Debug\net9.0\ProductDigitsofNum.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\bin\Debug\net9.0\ProductDigitsofNum.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\bin\Debug\net9.0\ProductDigitsofNum.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\bin\Debug\net9.0\ProductDigitsofNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\bin\Debug\net9.0\ProductDigitsofNum.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ProductDigitsofNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ProductDigitsofNum.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ProductDigitsofNum.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ProductDigitsofNum.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ProductDigitsofNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\refint\ProductDigitsofNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ProductDigitsofNum.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ProductDigitsofNum.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\ProductDigitsofNum\obj\Debug\net9.0\ref\ProductDigitsofNum.dll

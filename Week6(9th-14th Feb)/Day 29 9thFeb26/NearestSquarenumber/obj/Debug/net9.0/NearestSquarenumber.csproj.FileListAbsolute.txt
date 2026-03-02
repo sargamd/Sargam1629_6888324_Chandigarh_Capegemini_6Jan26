@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\bin\Debug\net9.0\NearestSquarenumber.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\bin\Debug\net9.0\NearestSquarenumber.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\bin\Debug\net9.0\NearestSquarenumber.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\bin\Debug\net9.0\NearestSquarenumber.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\bin\Debug\net9.0\NearestSquarenumber.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\NearestSquarenumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\NearestSquarenumber.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\NearestSquarenumber.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\NearestSquarenumber.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\NearestSquarenumber.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\refint\NearestSquarenumber.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\NearestSquarenumber.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\NearestSquarenumber.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\NearestSquarenumber\obj\Debug\net9.0\ref\NearestSquarenumber.dll

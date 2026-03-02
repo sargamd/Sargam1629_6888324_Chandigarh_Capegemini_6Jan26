@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sargam Dinesh | Portfolio</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body{
+    line-height:1.6;
+}
+
+
+header{
+    background:#1c1f4a;
+    padding:20px 80px;
+    position:fixed;
+    width:100%;
+    top:0;
+    z-index:1000;
+}
+
+nav{
+    display:flex;
+    justify-content:center;
+    gap:40px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    font-weight:500;
+    letter-spacing:1px;
+}
+
+nav a:hover{
+    color:#00c6ff;
+}
+
+
+.hero{
+    height:100vh;
+    background:linear-gradient(rgba(28,31,74,0.85),rgba(28,31,74,0.85)),
+    url('https://images.unsplash.com/photo-1492724441997-5dc865305da7') no-repeat center center/cover;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    text-align:center;
+}
+
+.hero h1{
+    font-size:55px;
+}
+
+.hero h2{
+    font-weight:300;
+    margin-top:10px;
+    letter-spacing:2px;
+}
+
+
+section{
+    padding:100px 120px;
+}
+
+
+.about{
+    background:#f4f4f4;
+    display:flex;
+    gap:60px;
+    align-items:center;
+}
+
+.about img{
+    width:220px;
+    border-radius:10px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.2);
+}
+
+.about-text h2{
+    font-size:35px;
+    margin-bottom:20px;
+}
+
+
+.skills{
+    background:#74b3ce;
+    color:white;
+    text-align:center;
+}
+
+.skills h2{
+    font-size:35px;
+    margin-bottom:30px;
+}
+
+.skills p{
+    font-size:18px;
+}
+
+
+.projects{
+    background:white;
+}
+
+.projects h2{
+    text-align:center;
+    margin-bottom:50px;
+    font-size:35px;
+}
+
+.project-card{
+    background:#f4f4f4;
+    padding:30px;
+    border-radius:10px;
+    width:60%;
+    margin:auto;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+    transition:0.3s;
+}
+
+.project-card:hover{
+    transform:translateY(-8px);
+}
+
+
+.achievements{
+    background:#5a189a;
+    color:white;
+}
+
+.achievements h2{
+    text-align:center;
+    margin-bottom:40px;
+    font-size:35px;
+}
+
+.achievements ul{
+    width:70%;
+    margin:auto;
+    line-height:2;
+}
+
+
+.contact{
+    background:#1c1f4a;
+    color:white;
+}
+
+.contact h2{
+    margin-bottom:30px;
+}
+
+form{
+    width:60%;
+}
+
+input, textarea{
+    width:100%;
+    padding:12px;
+    margin-bottom:20px;
+    border:none;
+    border-radius:5px;
+}
+
+button{
+    padding:12px 30px;
+    border:none;
+    background:#00c6ff;
+    color:white;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+button:hover{
+    background:#0072ff;
+}
+
+footer{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<nav>
+<a href="#home">HOME</a>
+<a href="#about">ABOUT</a>
+<a href="#skills">SKILLS</a>
+<a href="#projects">PROJECT</a>
+<a href="#contact">CONTACT</a>
+</nav>
+</header>
+
+
+<section class="hero" id="home">
+<h1>Sargam Dinesh</h1>
+<h2>B.Tech CSE Student | Web Developer | Trainee</h2>
+</section>
+
+
+<section class="about" id="about">
+<img src="C:\Users\sargam\Downloads\Sargam_photo.jpg" alt="Profile">
+<div class="about-text">
+<h2>About Me</h2>
+<p>
+Dedicated and goal-oriented Computer Science undergraduate (CGPA: 8.82) 
+at Chandigarh Group of Colleges (2022-2026). 
+Strong foundation in problem-solving, Data Structures & Algorithms, 
+DBMS, and Web Development.
+</p>
+<p>
+Skilled in C, C++, Python, Core Java, HTML, CSS, and MySQL.
+Passionate about building practical solutions and contributing to dynamic teams.
+</p>
+</div>
+</section>
+
+
+<section class="skills" id="skills">
+<h2>Technical Skills</h2>
+<p><b>Languages:</b> C | C++ | Python | Core Java</p>
+<p><b>Web:</b> HTML | CSS | Flask</p>
+<p><b>Database:</b> MySQL | MongoDB</p>
+<p><b>Core Subjects:</b> DSA | OS | DBMS | Algorithms</p>
+</section>
+
+
+<section class="projects" id="projects">
+<h2>Training & Projects</h2>
+<div class="project-card">
+<h3>NewsLetter Web Application</h3>
+<p>
+Developed using Python Flask framework. 
+Fetches real-time news articles using NewsAPI. 
+Allows keyword-based search. Team Size: 2.
+</p>
+</div>
+</section>
+
+<section class="achievements">
+<h2>Achievements & Certifications</h2>
+<ul>
+<li>Smart India Hackathon 2023 – Podium Level</li>
+<li>Oracle Fusion AI Agent Studio Certified Associate</li>
+<li>Infosys Certifications in Cyber Security & GPT-3</li>
+<li>NPTEL Certification in DBMS</li>
+<li>HackerRank Python Certification</li>
+<li>Flipkart GRID 6.0 & EPIC 6.0 Participant</li>
+</ul>
+</section>
+
+
+<section class="contact" id="contact">
+<h2>Contact Me</h2>
+<p>Email: sargamdinesh@gmail.com</p>
+<p>Phone: +91 8168174478</p>
+</section>
+
+<footer>
+| Sargam Dinesh |
+</footer>
+
+</body>
+</html>

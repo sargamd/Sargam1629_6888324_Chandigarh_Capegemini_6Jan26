@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\bin\Debug\net9.0\PerfectNumber.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\bin\Debug\net9.0\PerfectNumber.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\bin\Debug\net9.0\PerfectNumber.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\bin\Debug\net9.0\PerfectNumber.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\bin\Debug\net9.0\PerfectNumber.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\PerfectNumber.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\PerfectNumber.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\PerfectNumber.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\PerfectNumber.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\refint\PerfectNumber.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\PerfectNumber.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\PerfectNumber.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\PerfectNumber\obj\Debug\net9.0\ref\PerfectNumber.dll

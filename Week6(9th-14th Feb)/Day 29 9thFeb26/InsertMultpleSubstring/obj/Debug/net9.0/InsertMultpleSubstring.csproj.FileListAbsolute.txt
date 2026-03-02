@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\bin\Debug\net9.0\InsertMultpleSubstring.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\bin\Debug\net9.0\InsertMultpleSubstring.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\bin\Debug\net9.0\InsertMultpleSubstring.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\bin\Debug\net9.0\InsertMultpleSubstring.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\bin\Debug\net9.0\InsertMultpleSubstring.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\InsertMultpleSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\InsertMultpleSubstring.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\InsertMultpleSubstring.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\InsertMultpleSubstring.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\InsertMultpleSubstring.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\refint\InsertMultpleSubstring.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\InsertMultpleSubstring.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\InsertMultpleSubstring.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertMultpleSubstring\obj\Debug\net9.0\ref\InsertMultpleSubstring.dll

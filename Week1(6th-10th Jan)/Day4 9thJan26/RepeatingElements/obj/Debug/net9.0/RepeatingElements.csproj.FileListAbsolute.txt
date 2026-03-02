@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\bin\Debug\net9.0\RepeatingElements.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\bin\Debug\net9.0\RepeatingElements.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\bin\Debug\net9.0\RepeatingElements.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\bin\Debug\net9.0\RepeatingElements.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\bin\Debug\net9.0\RepeatingElements.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\RepeatingElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\RepeatingElements.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\RepeatingElements.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\RepeatingElements.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\RepeatingElements.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\refint\RepeatingElements.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\RepeatingElements.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\RepeatingElements.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\RepeatingElements\obj\Debug\net9.0\ref\RepeatingElements.dll

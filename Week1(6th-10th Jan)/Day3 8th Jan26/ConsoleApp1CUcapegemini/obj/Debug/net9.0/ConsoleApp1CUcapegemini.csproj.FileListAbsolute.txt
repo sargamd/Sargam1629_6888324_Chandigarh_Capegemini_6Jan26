@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\bin\Debug\net9.0\ConsoleApp1CUcapegemini.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\bin\Debug\net9.0\ConsoleApp1CUcapegemini.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\bin\Debug\net9.0\ConsoleApp1CUcapegemini.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\bin\Debug\net9.0\ConsoleApp1CUcapegemini.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\bin\Debug\net9.0\ConsoleApp1CUcapegemini.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ConsoleApp1CUcapegemini.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ConsoleApp1CUcapegemini.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ConsoleApp1CUcapegemini.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ConsoleApp1CUcapegemini.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ConsoleApp1CUcapegemini.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\refint\ConsoleApp1CUcapegemini.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ConsoleApp1CUcapegemini.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ConsoleApp1CUcapegemini.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\ConsoleApp1CUcapegemini\obj\Debug\net9.0\ref\ConsoleApp1CUcapegemini.dll

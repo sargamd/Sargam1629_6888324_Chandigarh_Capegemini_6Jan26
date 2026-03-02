@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\bin\Debug\net9.0\CountDigits.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\bin\Debug\net9.0\CountDigits.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\bin\Debug\net9.0\CountDigits.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\bin\Debug\net9.0\CountDigits.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\bin\Debug\net9.0\CountDigits.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\CountDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\CountDigits.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\CountDigits.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\CountDigits.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\CountDigits.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\refint\CountDigits.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\CountDigits.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\CountDigits.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day4 9thJan26\CountDigits\obj\Debug\net9.0\ref\CountDigits.dll

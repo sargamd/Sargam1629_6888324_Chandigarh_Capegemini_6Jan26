@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountElements", "CountElements.csproj", "{831B7176-18B6-41AA-8190-6C59E430A51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831B7176-18B6-41AA-8190-6C59E430A51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831B7176-18B6-41AA-8190-6C59E430A51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831B7176-18B6-41AA-8190-6C59E430A51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831B7176-18B6-41AA-8190-6C59E430A51A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1CE1F75-A02C-4966-9028-E75AD0350A20}
+	EndGlobalSection
+EndGlobal

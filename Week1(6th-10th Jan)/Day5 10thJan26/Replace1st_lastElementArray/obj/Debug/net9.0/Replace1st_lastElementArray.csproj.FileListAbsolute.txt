@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\bin\Debug\net9.0\Replace1st_lastElementArray.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\bin\Debug\net9.0\Replace1st_lastElementArray.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\bin\Debug\net9.0\Replace1st_lastElementArray.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\bin\Debug\net9.0\Replace1st_lastElementArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\bin\Debug\net9.0\Replace1st_lastElementArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\Replace1st_lastElementArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\Replace1st_lastElementArray.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\Replace1st_lastElementArray.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\Replace1st_lastElementArray.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\Replace1st_lastElementArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\refint\Replace1st_lastElementArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\Replace1st_lastElementArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\Replace1st_lastElementArray.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\Replace1st_lastElementArray\obj\Debug\net9.0\ref\Replace1st_lastElementArray.dll

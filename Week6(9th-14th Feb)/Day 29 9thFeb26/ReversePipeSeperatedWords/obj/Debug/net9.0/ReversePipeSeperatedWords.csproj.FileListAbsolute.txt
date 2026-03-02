@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\bin\Debug\net9.0\ReversePipeSeperatedWords.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\bin\Debug\net9.0\ReversePipeSeperatedWords.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\bin\Debug\net9.0\ReversePipeSeperatedWords.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\bin\Debug\net9.0\ReversePipeSeperatedWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\bin\Debug\net9.0\ReversePipeSeperatedWords.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ReversePipeSeperatedWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ReversePipeSeperatedWords.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ReversePipeSeperatedWords.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ReversePipeSeperatedWords.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ReversePipeSeperatedWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\refint\ReversePipeSeperatedWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ReversePipeSeperatedWords.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ReversePipeSeperatedWords.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ReversePipeSeperatedWords\obj\Debug\net9.0\ref\ReversePipeSeperatedWords.dll

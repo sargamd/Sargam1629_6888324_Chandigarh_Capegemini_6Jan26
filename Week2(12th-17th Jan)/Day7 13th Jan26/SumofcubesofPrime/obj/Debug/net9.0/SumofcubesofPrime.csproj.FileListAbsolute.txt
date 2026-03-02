@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\SumofcubesofPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\SumofcubesofPrime.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\SumofcubesofPrime.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\SumofcubesofPrime.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\bin\Debug\net9.0\SumofcubesofPrime.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\bin\Debug\net9.0\SumofcubesofPrime.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\bin\Debug\net9.0\SumofcubesofPrime.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\bin\Debug\net9.0\SumofcubesofPrime.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\bin\Debug\net9.0\SumofcubesofPrime.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\SumofcubesofPrime.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\refint\SumofcubesofPrime.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\SumofcubesofPrime.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\SumofcubesofPrime.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Week2(12th-17th Jan)\SumofcubesofPrime\obj\Debug\net9.0\ref\SumofcubesofPrime.dll

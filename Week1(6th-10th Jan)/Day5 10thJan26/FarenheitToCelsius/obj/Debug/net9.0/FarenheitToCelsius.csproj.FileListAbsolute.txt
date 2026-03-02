@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\bin\Debug\net9.0\FarenheitToCelsius.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\bin\Debug\net9.0\FarenheitToCelsius.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\bin\Debug\net9.0\FarenheitToCelsius.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\bin\Debug\net9.0\FarenheitToCelsius.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\bin\Debug\net9.0\FarenheitToCelsius.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\FarenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\FarenheitToCelsius.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\FarenheitToCelsius.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\FarenheitToCelsius.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\FarenheitToCelsius.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\refint\FarenheitToCelsius.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\FarenheitToCelsius.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\FarenheitToCelsius.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\FarenheitToCelsius\obj\Debug\net9.0\ref\FarenheitToCelsius.dll

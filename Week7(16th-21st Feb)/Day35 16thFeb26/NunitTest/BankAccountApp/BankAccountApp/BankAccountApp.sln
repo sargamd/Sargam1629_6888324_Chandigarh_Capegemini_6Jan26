@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountApp", "BankAccountApp.csproj", "{86B53570-587B-4C35-A18F-2039B950124A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitBankAccountTestProject", "..\NunitBankAccountTestProject\NunitBankAccountTestProject.csproj", "{D189592F-600E-43E3-9233-A3A514C0FCE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B53570-587B-4C35-A18F-2039B950124A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B53570-587B-4C35-A18F-2039B950124A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B53570-587B-4C35-A18F-2039B950124A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B53570-587B-4C35-A18F-2039B950124A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D189592F-600E-43E3-9233-A3A514C0FCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D189592F-600E-43E3-9233-A3A514C0FCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D189592F-600E-43E3-9233-A3A514C0FCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D189592F-600E-43E3-9233-A3A514C0FCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8429E0F-EB37-4441-A7DC-E30BB30CA23F}
+	EndGlobalSection
+EndGlobal

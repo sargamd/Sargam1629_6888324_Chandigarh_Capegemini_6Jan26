@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day13 20thJan26\\TotalMarks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859F871C-7247-4148-BC76-F1E117524A7E}|TotalMarks.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day13 20thjan26\\totalmarks\\totalmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F871C-7247-4148-BC76-F1E117524A7E}|TotalMarks.csproj|solutionrelative:totalmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F871C-7247-4148-BC76-F1E117524A7E}|TotalMarks.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day13 20thjan26\\totalmarks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F871C-7247-4148-BC76-F1E117524A7E}|TotalMarks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TotalMarks.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day13 20thJan26\\TotalMarks\\TotalMarks.cs",
+              "RelativeDocumentMoniker": "TotalMarks.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day13 20thJan26\\TotalMarks\\TotalMarks.cs",
+              "RelativeToolTip": "TotalMarks.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:26:19.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day13 20thJan26\\TotalMarks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day13 20thJan26\\TotalMarks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:25:57.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

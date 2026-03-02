@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day12 19thjan26\\university_enrollment_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day12 19thjan26\\university_enrollment_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day12 19thjan26\\university_enrollment_system\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day12 19thjan26\\university_enrollment_system\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day12 19thjan26\\university_enrollment_system\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day12 19thjan26\\university_enrollment_system\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|solutionrelative:professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week3(19th-24th jan)\\day12 19thjan26\\university_enrollment_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A1DA52-9895-43AD-9118-61BE3F797719}|University_Enrollment_System.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:27:12.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:26:57.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:26:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Professor.cs",
+              "RelativeDocumentMoniker": "Professor.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Professor.cs",
+              "RelativeToolTip": "Professor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:26:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:26:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:21:38.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week3(19th-24th Jan)\\Day12 19thJan26\\University_Enrollment_System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:21:16.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

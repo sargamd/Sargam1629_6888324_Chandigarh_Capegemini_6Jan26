@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\bin\Debug\net9.0\RemoveInsertSubstring.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\bin\Debug\net9.0\RemoveInsertSubstring.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\bin\Debug\net9.0\RemoveInsertSubstring.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\bin\Debug\net9.0\RemoveInsertSubstring.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\bin\Debug\net9.0\RemoveInsertSubstring.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\RemoveInsertSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\RemoveInsertSubstring.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\RemoveInsertSubstring.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\RemoveInsertSubstring.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\RemoveInsertSubstring.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\refint\RemoveInsertSubstring.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\RemoveInsertSubstring.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\RemoveInsertSubstring.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\RemoveInsertSubstring\obj\Debug\net9.0\ref\RemoveInsertSubstring.dll

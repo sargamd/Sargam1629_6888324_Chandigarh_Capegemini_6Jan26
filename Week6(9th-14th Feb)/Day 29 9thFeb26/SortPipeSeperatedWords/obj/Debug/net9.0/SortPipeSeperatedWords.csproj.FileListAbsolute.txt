@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\bin\Debug\net9.0\SortPipeSeperatedWords.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\bin\Debug\net9.0\SortPipeSeperatedWords.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\bin\Debug\net9.0\SortPipeSeperatedWords.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\bin\Debug\net9.0\SortPipeSeperatedWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\bin\Debug\net9.0\SortPipeSeperatedWords.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\SortPipeSeperatedWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\SortPipeSeperatedWords.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\SortPipeSeperatedWords.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\SortPipeSeperatedWords.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\SortPipeSeperatedWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\refint\SortPipeSeperatedWords.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\SortPipeSeperatedWords.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\SortPipeSeperatedWords.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SortPipeSeperatedWords\obj\Debug\net9.0\ref\SortPipeSeperatedWords.dll

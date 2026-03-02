@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\bin\Debug\net9.0\SumofCoupleInArray.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\bin\Debug\net9.0\SumofCoupleInArray.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\bin\Debug\net9.0\SumofCoupleInArray.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\bin\Debug\net9.0\SumofCoupleInArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\bin\Debug\net9.0\SumofCoupleInArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\SumofCoupleInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\SumofCoupleInArray.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\SumofCoupleInArray.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\SumofCoupleInArray.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\SumofCoupleInArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\refint\SumofCoupleInArray.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\SumofCoupleInArray.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\SumofCoupleInArray.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\SumofCoupleInArray\obj\Debug\net9.0\ref\SumofCoupleInArray.dll

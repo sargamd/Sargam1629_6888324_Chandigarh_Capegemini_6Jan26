@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week1(6th-10th Jan)\\Day2 7thJan26\\WinFormsApp_Connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96FC6713-90CC-4A2E-84EF-50598D06F624}|WinFormsApp_Connection\\WinFormsApp_Connection.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week1(6th-10th jan)\\day2 7thjan26\\winformsapp_connection\\winformsapp_connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FC6713-90CC-4A2E-84EF-50598D06F624}|WinFormsApp_Connection\\WinFormsApp_Connection.csproj|solutionrelative:winformsapp_connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FC6713-90CC-4A2E-84EF-50598D06F624}|WinFormsApp_Connection\\WinFormsApp_Connection.csproj|D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week1(6th-10th Jan)\\Day2 7thJan26\\WinFormsApp_Connection\\winformsapp_connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96FC6713-90CC-4A2E-84EF-50598D06F624}|WinFormsApp_Connection\\WinFormsApp_Connection.csproj|solutionrelative:winformsapp_connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FC6713-90CC-4A2E-84EF-50598D06F624}|WinFormsApp_Connection\\WinFormsApp_Connection.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week1(6th-10th jan)\\day2 7thjan26\\winformsapp_connection\\winformsapp_connection\\winformsapp_connection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96FC6713-90CC-4A2E-84EF-50598D06F624}|WinFormsApp_Connection\\WinFormsApp_Connection.csproj|solutionrelative:winformsapp_connection\\winformsapp_connection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week1(6th-10th Jan)\\Day2 7thJan26\\WinFormsApp_Connection\\WinFormsApp_Connection\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_Connection\\Form1.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week1(6th-10th Jan)\\Day2 7thJan26\\WinFormsApp_Connection\\WinFormsApp_Connection\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp_Connection\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:14:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsApp_Connection.csproj",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week1(6th-10th Jan)\\Day2 7thJan26\\WinFormsApp_Connection\\WinFormsApp_Connection\\WinFormsApp_Connection.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp_Connection\\WinFormsApp_Connection.csproj",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week1(6th-10th Jan)\\Day2 7thJan26\\WinFormsApp_Connection\\WinFormsApp_Connection\\WinFormsApp_Connection.csproj",
+              "RelativeToolTip": "WinFormsApp_Connection\\WinFormsApp_Connection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T05:06:23.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week1(6th-10th Jan)\\Day2 7thJan26\\WinFormsApp_Connection\\WinFormsApp_Connection\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp_Connection\\Form1.cs",
+              "ToolTip": "D:\\sargam\\.Net\u0026Azure_CG\\Sargam_CU_Capegemini\\WinFormsApp_Connection\\WinFormsApp_Connection\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\.Net\u0026Azure_CG\\Sargam_CU_Capegemini\\WinFormsApp_Connection\\WinFormsApp_Connection\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:56:42.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

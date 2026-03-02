@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\bin\Debug\net9.0\CountNextGreaterDivisible.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\bin\Debug\net9.0\CountNextGreaterDivisible.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\bin\Debug\net9.0\CountNextGreaterDivisible.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\bin\Debug\net9.0\CountNextGreaterDivisible.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\bin\Debug\net9.0\CountNextGreaterDivisible.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\CountNextGreaterDivisible.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\CountNextGreaterDivisible.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\CountNextGreaterDivisible.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\CountNextGreaterDivisible.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\CountNextGreaterDivisible.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\refint\CountNextGreaterDivisible.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\CountNextGreaterDivisible.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\CountNextGreaterDivisible.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\CountNextGreaterDivisible\obj\Debug\net9.0\ref\CountNextGreaterDivisible.dll

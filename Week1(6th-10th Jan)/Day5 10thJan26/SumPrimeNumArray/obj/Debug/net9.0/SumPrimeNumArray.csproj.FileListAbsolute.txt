@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\SumPrimeNumArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\SumPrimeNumArray.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\SumPrimeNumArray.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\SumPrimeNumArray.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\bin\Debug\net9.0\SumPrimeNumArray.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\bin\Debug\net9.0\SumPrimeNumArray.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\bin\Debug\net9.0\SumPrimeNumArray.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\bin\Debug\net9.0\SumPrimeNumArray.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\bin\Debug\net9.0\SumPrimeNumArray.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\SumPrimeNumArray.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\refint\SumPrimeNumArray.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\SumPrimeNumArray.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\SumPrimeNumArray.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\SumPrimeNumArray\obj\Debug\net9.0\ref\SumPrimeNumArray.dll

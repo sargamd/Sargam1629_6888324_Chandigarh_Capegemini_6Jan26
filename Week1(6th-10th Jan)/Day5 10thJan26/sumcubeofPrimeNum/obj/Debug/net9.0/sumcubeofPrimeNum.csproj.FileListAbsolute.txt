@@ -1,0 +1,14 @@
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\bin\Debug\net9.0\sumcubeofPrimeNum.exe
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\bin\Debug\net9.0\sumcubeofPrimeNum.deps.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\bin\Debug\net9.0\sumcubeofPrimeNum.runtimeconfig.json
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\bin\Debug\net9.0\sumcubeofPrimeNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\bin\Debug\net9.0\sumcubeofPrimeNum.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\sumcubeofPrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\sumcubeofPrimeNum.AssemblyInfoInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\sumcubeofPrimeNum.AssemblyInfo.cs
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\sumcubeofPrimeNum.csproj.CoreCompileInputs.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\sumcubeofPrimeNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\refint\sumcubeofPrimeNum.dll
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\sumcubeofPrimeNum.pdb
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\sumcubeofPrimeNum.genruntimeconfig.cache
+D:\sargam\.Net&Azure_CG\Sargam_CU_Capegemini\Week1(6th-10th Jan)\Day5 10thJan26\sumcubeofPrimeNum\obj\Debug\net9.0\ref\sumcubeofPrimeNum.dll

@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\bin\Debug\net9.0\InsertSubstringAtPosition.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\bin\Debug\net9.0\InsertSubstringAtPosition.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\bin\Debug\net9.0\InsertSubstringAtPosition.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\bin\Debug\net9.0\InsertSubstringAtPosition.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\bin\Debug\net9.0\InsertSubstringAtPosition.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\InsertSubstringAtPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\InsertSubstringAtPosition.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\InsertSubstringAtPosition.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\InsertSubstringAtPosition.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\InsertSubstringAtPosition.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\refint\InsertSubstringAtPosition.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\InsertSubstringAtPosition.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\InsertSubstringAtPosition.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\InsertSubstringAtPosition\obj\Debug\net9.0\ref\InsertSubstringAtPosition.dll

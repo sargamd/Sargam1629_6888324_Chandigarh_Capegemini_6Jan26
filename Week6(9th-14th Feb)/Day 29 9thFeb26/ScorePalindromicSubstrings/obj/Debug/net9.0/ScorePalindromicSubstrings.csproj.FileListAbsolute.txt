@@ -1,0 +1,14 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\bin\Debug\net9.0\ScorePalindromicSubstrings.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\bin\Debug\net9.0\ScorePalindromicSubstrings.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\bin\Debug\net9.0\ScorePalindromicSubstrings.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\bin\Debug\net9.0\ScorePalindromicSubstrings.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\bin\Debug\net9.0\ScorePalindromicSubstrings.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ScorePalindromicSubstrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ScorePalindromicSubstrings.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ScorePalindromicSubstrings.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ScorePalindromicSubstrings.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ScorePalindromicSubstrings.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\refint\ScorePalindromicSubstrings.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ScorePalindromicSubstrings.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ScorePalindromicSubstrings.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week6(9th-14th Feb)\Day 29 9thFeb26\ScorePalindromicSubstrings\obj\Debug\net9.0\ref\ScorePalindromicSubstrings.dll
