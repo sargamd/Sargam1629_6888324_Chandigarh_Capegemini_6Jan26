@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj": {}
+    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj": {}
   },
   "projects": {
-    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\StudentGradeApp.csproj": {
+    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\StudentGradeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\StudentGradeApp.csproj",
+        "projectUniqueName": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\StudentGradeApp.csproj",
         "projectName": "StudentGradeApp",
-        "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\StudentGradeApp.csproj",
+        "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\StudentGradeApp.csproj",
         "packagesPath": "C:\\Users\\sargam\\.nuget\\packages\\",
-        "outputPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\obj\\",
+        "outputPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj": {
+    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj",
+        "projectUniqueName": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj",
         "projectName": "XUnitStudentGrade.Tests",
-        "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj",
+        "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj",
         "packagesPath": "C:\\Users\\sargam\\.nuget\\packages\\",
-        "outputPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\obj\\",
+        "outputPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\XUnitStudentGrade.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\StudentGradeApp.csproj": {
-                "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\StudentGradeApp.csproj"
+              "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\StudentGradeApp.csproj": {
+                "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\StudentGradeApp.csproj"
               }
             }
           }

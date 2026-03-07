@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\real estate listing management\\realestateapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|solutionrelative:realestateapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\real estate listing management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\real estate listing management\\realestatelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|solutionrelative:realestatelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\real estate listing management\\irealestateapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|solutionrelative:irealestateapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\real estate listing management\\irealestatelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BAED4B-2219-4E0C-92A5-A95910EF4B0F}|Real Estate Listing Management.csproj|solutionrelative:irealestatelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRealEstateListing.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\IRealEstateListing.cs",
+              "RelativeDocumentMoniker": "IRealEstateListing.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\IRealEstateListing.cs",
+              "RelativeToolTip": "IRealEstateListing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:59:51.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRealEstateApp.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\IRealEstateApp.cs",
+              "RelativeDocumentMoniker": "IRealEstateApp.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\IRealEstateApp.cs",
+              "RelativeToolTip": "IRealEstateApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:46:41.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RealEstateApp.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\RealEstateApp.cs",
+              "RelativeDocumentMoniker": "RealEstateApp.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\RealEstateApp.cs",
+              "RelativeToolTip": "RealEstateApp.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:45:21.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealEstateListing.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\RealEstateListing.cs",
+              "RelativeDocumentMoniker": "RealEstateListing.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\RealEstateListing.cs",
+              "RelativeToolTip": "RealEstateListing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:43:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\Real Estate Listing Management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:43:23.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

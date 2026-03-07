@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>To-Do List App</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(120deg,#89f7fe,#66a6ff);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    width:350px;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+    text-align:center;
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+input{
+    width:65%;
+    padding:8px;
+    border-radius:5px;
+    border:1px solid gray;
+}
+
+button{
+    padding:8px 12px;
+    border:none;
+    border-radius:5px;
+    background:#007BFF;
+    color:white;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#0056b3;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+    margin-top:20px;
+}
+
+li{
+    padding:10px;
+    margin:5px 0;
+    border:1px solid #ddd;
+    border-radius:5px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+li:hover{
+    background:#f2f2f2;
+}
+
+.done{
+    text-decoration:line-through;
+    color:gray;
+}
+
+.reset{
+    background:red;
+    margin-top:15px;
+}
+
+.reset:hover{
+    background:darkred;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>My To-Do List</h2>
+
+<input type="text" id="taskInput" placeholder="Enter a task">
+<button onclick="addTask()">Add</button>
+
+<ul id="taskList"></ul>
+
+<button class="reset" onclick="clearTasks()">Clear All</button>
+
+</div>
+
+<script>
+
+function addTask()
+{
+    let taskText=document.getElementById("taskInput").value;
+
+    if(taskText==="")
+    {
+        alert("Please enter a task");
+        return;
+    }
+
+    let li=document.createElement("li");
+    li.innerText=taskText;
+
+    li.onclick=function()
+    {
+        li.classList.toggle("done");
+    };
+
+    document.getElementById("taskList").appendChild(li);
+
+    document.getElementById("taskInput").value="";
+}
+
+function clearTasks()
+{
+    document.getElementById("taskList").innerHTML="";
+}
+
+</script>
+
+</body>
+</html>

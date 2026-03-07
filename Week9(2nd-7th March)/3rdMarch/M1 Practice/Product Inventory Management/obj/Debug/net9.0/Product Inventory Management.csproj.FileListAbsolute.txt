@@ -1,0 +1,15 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\bin\Debug\net9.0\Product Inventory Management.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\bin\Debug\net9.0\Product Inventory Management.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\bin\Debug\net9.0\Product Inventory Management.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\bin\Debug\net9.0\Product Inventory Management.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\bin\Debug\net9.0\Product Inventory Management.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\refint\Product Inventory Management.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\Product Inventory Management.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Product Inventory Management\obj\Debug\net9.0\ref\Product Inventory Management.dll

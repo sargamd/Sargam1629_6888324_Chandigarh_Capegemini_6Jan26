@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\StudentGradeApp.csproj",
+      "projectUniqueName": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\StudentGradeApp.csproj",
       "projectName": "StudentGradeApp",
-      "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\StudentGradeApp.csproj",
+      "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\StudentGradeApp.csproj",
       "packagesPath": "C:\\Users\\sargam\\.nuget\\packages\\",
-      "outputPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\obj\\",
+      "outputPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

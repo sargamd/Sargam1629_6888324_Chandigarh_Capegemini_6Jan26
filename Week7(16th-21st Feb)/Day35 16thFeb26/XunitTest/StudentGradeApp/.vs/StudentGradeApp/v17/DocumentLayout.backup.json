@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\",
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F82D9463-32B6-40EB-9EE3-C0DB5AE17466}|..\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\xunitstudentgrade.tests\\gradecalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82D9463-32B6-40EB-9EE3-C0DB5AE17466}|..\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\xunitstudentgrade.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58FA17CE-262B-4693-8D25-C7C30C8E21D0}|StudentGradeApp.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\studentgradeapp\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58FA17CE-262B-4693-8D25-C7C30C8E21D0}|StudentGradeApp.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\xunittest\\studentgradeapp\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58FA17CE-262B-4693-8D25-C7C30C8E21D0}|StudentGradeApp.csproj|solutionrelative:gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58FA17CE-262B-4693-8D25-C7C30C8E21D0}|StudentGradeApp.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\studentgradeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58FA17CE-262B-4693-8D25-C7C30C8E21D0}|StudentGradeApp.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week7(16th-21st feb)\\day35 16thfeb26\\xunittest\\studentgradeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58FA17CE-262B-4693-8D25-C7C30C8E21D0}|StudentGradeApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\GradeCalculatorTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,55 +32,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GradeCalculatorTest.cs",
               "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\GradeCalculatorTest.cs",
-              "RelativeDocumentMoniker": "..\\XUnitStudentGrade.Tests\\GradeCalculatorTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\XUnitStudentGrade.Tests\\GradeCalculatorTest.cs",
               "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\GradeCalculatorTest.cs",
-              "RelativeToolTip": "..\\XUnitStudentGrade.Tests\\GradeCalculatorTest.cs",
+              "RelativeToolTip": "..\\..\\XUnitStudentGrade.Tests\\GradeCalculatorTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T09:50:47.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T09:50:47.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\XUnitStudentGrade.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\XUnitStudentGrade.Tests\\UnitTest1.cs",
               "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\XUnitStudentGrade.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\XUnitStudentGrade.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T09:48:29.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T09:48:29.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GradeCalculator.cs",
-              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\GradeCalculator.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\GradeCalculator.cs",
               "RelativeDocumentMoniker": "GradeCalculator.cs",
-              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\GradeCalculator.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\GradeCalculator.cs",
               "RelativeToolTip": "GradeCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T09:47:02.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\StudentGradeApp\\Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\StudentGradeApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T09:46:38.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T09:46:38.397Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uO1n7sKmEMI=",
+  "dgSpecHash": "PC3e9bFJkW0=",
   "success": true,
-  "projectFilePath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj",
+  "projectFilePath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week7(16th-21st Feb)\\Day35 16thFeb26\\XunitTest\\XUnitStudentGrade.Tests\\XUnitStudentGrade.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sargam\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\sargam\\.nuget\\packages\\microsoft.codecoverage\\18.0.0\\microsoft.codecoverage.18.0.0.nupkg.sha512",

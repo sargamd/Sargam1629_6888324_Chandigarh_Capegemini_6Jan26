@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Weather Dashboard</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(120deg,#74ebd5,#ACB6E5);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    width:360px;
+    text-align:center;
+    border-radius:15px;
+    box-shadow:0 0 20px rgba(0,0,0,0.2);
+}
+
+h2{
+    margin-bottom:20px;
+    color:#333;
+}
+
+/* Colorful Textbox */
+
+input{
+    padding:10px;
+    width:70%;
+    border-radius:8px;
+    border:2px solid #6a11cb;
+    background:#f9f6ff;
+    transition:0.3s;
+}
+
+input:focus{
+    outline:none;
+    border-color:#2575fc;
+    box-shadow:0 0 8px #2575fc;
+    background:#ffffff;
+}
+
+/* Buttons */
+
+button{
+    padding:10px 15px;
+    border:none;
+    border-radius:8px;
+    color:white;
+    cursor:pointer;
+    margin-top:10px;
+    transition:0.3s;
+}
+
+/* Green Button */
+
+.checkBtn{
+    background:#28a745;
+}
+
+.checkBtn:hover{
+    background:#1e7e34;
+}
+
+/* Red Button */
+
+.clearBtn{
+    background:#dc3545;
+}
+
+.clearBtn:hover{
+    background:#a71d2a;
+}
+
+.weatherCard{
+    margin-top:20px;
+    padding:15px;
+    border-radius:10px;
+    border:1px solid #ddd;
+    background:#fafafa;
+}
+
+.icon{
+    font-size:45px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>🌦 Weather Today</h2>
+
+<input type="text" id="cityInput" placeholder="Enter city name">
+
+<br><br>
+
+<button class="checkBtn" onclick="checkWeather()">Check Weather</button>
+<button class="clearBtn" onclick="clearWeather()">Clear</button>
+
+<div id="weatherDisplay" class="weatherCard"></div>
+
+</div>
+
+<script>
+
+function checkWeather()
+{
+    let city=document.getElementById("cityInput").value;
+
+    let weatherData={
+        "Paris":{temp:22,condition:"Sunny",icon:"☀"},
+        "London":{temp:16,condition:"Rainy",icon:"🌧"},
+        "Tokyo":{temp:19,condition:"Cloudy",icon:"☁"},
+        "Delhi":{temp:30,condition:"Sunny",icon:"☀"}
+    };
+
+    let data=weatherData[city];
+
+    if(!data)
+    {
+        document.getElementById("weatherDisplay").innerHTML="No mock data available.";
+        return;
+    }
+
+    document.getElementById("weatherDisplay").innerHTML=
+    `<div class="icon">${data.icon}</div>
+     <p><b>City:</b> ${city}</p>
+     <p><b>Temp:</b> ${data.temp}°C</p>
+     <p><b>Condition:</b> ${data.condition}</p>`;
+
+    if(data.condition==="Sunny")
+        document.body.style.background="linear-gradient(120deg,#fddb92,#f6d365)";
+    else if(data.condition==="Rainy")
+        document.body.style.background="linear-gradient(120deg,#4facfe,#00f2fe)";
+    else if(data.condition==="Cloudy")
+        document.body.style.background="linear-gradient(120deg,#bdc3c7,#2c3e50)";
+}
+
+function clearWeather()
+{
+    document.getElementById("cityInput").value="";
+    document.getElementById("weatherDisplay").innerHTML="";
+}
+
+</script>
+
+</body>
+</html>

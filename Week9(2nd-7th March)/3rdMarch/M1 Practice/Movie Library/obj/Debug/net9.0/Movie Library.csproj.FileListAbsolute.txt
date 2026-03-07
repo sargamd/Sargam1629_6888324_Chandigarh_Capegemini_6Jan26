@@ -1,0 +1,15 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\bin\Debug\net9.0\Movie Library.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\bin\Debug\net9.0\Movie Library.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\bin\Debug\net9.0\Movie Library.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\bin\Debug\net9.0\Movie Library.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\bin\Debug\net9.0\Movie Library.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\refint\Movie Library.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\Movie Library.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Movie Library\obj\Debug\net9.0\ref\Movie Library.dll

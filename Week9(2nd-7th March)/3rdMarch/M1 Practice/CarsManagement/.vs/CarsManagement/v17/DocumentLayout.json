@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\CarsManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6745709A-AD7D-46FA-B237-E0A54E54CA9A}|CarsManagement.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\carsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745709A-AD7D-46FA-B237-E0A54E54CA9A}|CarsManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745709A-AD7D-46FA-B237-E0A54E54CA9A}|CarsManagement.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\carsmanagement\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745709A-AD7D-46FA-B237-E0A54E54CA9A}|CarsManagement.csproj|solutionrelative:carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745709A-AD7D-46FA-B237-E0A54E54CA9A}|CarsManagement.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\carsmanagement\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745709A-AD7D-46FA-B237-E0A54E54CA9A}|CarsManagement.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\CarsManagement\\CarManager.cs",
+              "RelativeDocumentMoniker": "CarManager.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\CarsManagement\\CarManager.cs",
+              "RelativeToolTip": "CarManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:48:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\CarsManagement\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\CarsManagement\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:47:48.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\CarsManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\CarsManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:45:07.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

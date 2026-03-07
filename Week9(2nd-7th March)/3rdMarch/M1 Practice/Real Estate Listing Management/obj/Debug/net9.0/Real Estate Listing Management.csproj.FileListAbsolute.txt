@@ -1,0 +1,5 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Real Estate Listing Management\obj\Debug\net9.0\Real Estate Listing Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Real Estate Listing Management\obj\Debug\net9.0\Real Estate Listing Management.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Real Estate Listing Management\obj\Debug\net9.0\Real Estate Listing Management.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Real Estate Listing Management\obj\Debug\net9.0\Real Estate Listing Management.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\3rdMarch\M1 Practice\Real Estate Listing Management\obj\Debug\net9.0\Real Estate Listing Management.sourcelink.json

@@ -1,0 +1,15 @@
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\bin\Debug\net9.0\CleanseandInvert.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\bin\Debug\net9.0\CleanseandInvert.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\bin\Debug\net9.0\CleanseandInvert.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\bin\Debug\net9.0\CleanseandInvert.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\bin\Debug\net9.0\CleanseandInvert.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\refint\CleanseandInvert.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\CleanseandInvert.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week9(2nd-7th March)\2ndMarch\CleanseandInvert\obj\Debug\net9.0\ref\CleanseandInvert.dll

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\librarymanagementsystem\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|solutionrelative:librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\librarymanagementsystem\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|solutionrelative:ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\librarymanagementsystem\\ilibrarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|solutionrelative:ilibrarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week9(2nd-7th march)\\3rdmarch\\m1 practice\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4491C5A1-714D-4859-8C76-17F69B8D3E04}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\IBook.cs",
+              "RelativeDocumentMoniker": "IBook.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\IBook.cs",
+              "RelativeToolTip": "IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:07:21.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:08:57.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrarySystem.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\LibrarySystem.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\LibrarySystem.cs",
+              "RelativeToolTip": "LibrarySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:07:51.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibrarySystem.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\ILibrarySystem.cs",
+              "RelativeDocumentMoniker": "ILibrarySystem.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\ILibrarySystem.cs",
+              "RelativeToolTip": "ILibrarySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:06:50.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week9(2nd-7th March)\\3rdMarch\\M1 Practice\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:05:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
