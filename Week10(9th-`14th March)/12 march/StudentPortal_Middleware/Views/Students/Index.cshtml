@@ -1,0 +1,107 @@
+﻿@model List<string>
+
+<style>
+
+    body {
+        background: linear-gradient(135deg,#4facfe,#00f2fe);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Main container */
+    .container-box {
+        width: 80%;
+        margin: 40px auto;
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0px 8px 20px rgba(0,0,0,0.2);
+    }
+
+    /* Headings */
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    /* Students list */
+    .student-list {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+    }
+
+    .student-item {
+        background: #4facfe;
+        color: white;
+        padding: 12px 25px;
+        border-radius: 8px;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+
+        .student-item:hover {
+            background: #007bff;
+            transform: scale(1.05);
+        }
+
+    /* Table styling */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th {
+        background: #007bff;
+        color: white;
+        padding: 12px;
+    }
+
+    td {
+        padding: 10px;
+        text-align: center;
+    }
+
+    tr:nth-child(even) {
+        background: #f2f2f2;
+    }
+
+    tr:hover {
+        background: #d6eaff;
+    }
+
+</style>
+
+<div class="container-box">
+
+    <h2>🎓 Students</h2>
+
+    <div class="student-list">
+        @foreach (var s in Model)
+        {
+            <div class="student-item">@s</div>
+        }
+    </div>
+
+    <h2>📊 Request Logs</h2>
+
+    <table>
+        <tr>
+            <th>URL</th>
+            <th>Execution Time (ms)</th>
+        </tr>
+
+        @foreach (var log in ViewBag.Logs)
+        {
+            <tr>
+                <td>@log.Url</td>
+                <td>@log.ExecutionTime</td>
+            </tr>
+        }
+
+    </table>
+
+</div>

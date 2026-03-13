@@ -1,0 +1,32 @@
+﻿@* namespace CompanyEmployees_1toMany.Views.Companies
+{
+    public class Index
+    {
+    }
+} *@
+@model IEnumerable<CompanyEmployees_1toMany.Models.Company>
+
+<h2>Companies</h2>
+
+<a asp-action="Create">Add Company</a>
+
+@foreach (var company in Model)
+{
+    <div style="border:1px solid gray; padding:10px; margin:10px">
+
+        <h3>@company.Name</h3>
+        <p>Location: @company.Location</p>
+
+        <h4>Employees</h4>
+
+        <ul>
+            @foreach (var emp in company.Employees)
+            {
+                <li>
+                    @emp.Name - @emp.Position (Age: @emp.Age)
+                </li>
+            }
+        </ul>
+
+    </div>
+}

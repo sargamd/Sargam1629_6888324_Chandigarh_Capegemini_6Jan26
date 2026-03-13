@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\companyemployees_1tomany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:companyemployees_1tomany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\companyemployees_1tomany\\migrations\\20260313095243_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882102E-FC01-4790-98EC-B319D31420E6}|CompanyEmployees_1toMany.csproj|solutionrelative:migrations\\20260313095243_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:55:49.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationdbContext.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Models\\ApplicationdbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationdbContext.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Models\\ApplicationdbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationdbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:21:44.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Views\\Companies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Create.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Views\\Companies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T10:00:05.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:57:41.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T09:27:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T10:00:51.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:20:54.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:21:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Views\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Views\\Companies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:58:37.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260313095243_m1.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Migrations\\20260313095243_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260313095243_m1.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Migrations\\20260313095243_m1.cs",
+              "RelativeToolTip": "Migrations\\20260313095243_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:52:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:20:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyEmployees_1toMany.csproj",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\CompanyEmployees_1toMany.csproj",
+              "RelativeDocumentMoniker": "CompanyEmployees_1toMany.csproj",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\CompanyEmployees_1toMany\\CompanyEmployees_1toMany.csproj",
+              "RelativeToolTip": "CompanyEmployees_1toMany.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T09:23:44.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

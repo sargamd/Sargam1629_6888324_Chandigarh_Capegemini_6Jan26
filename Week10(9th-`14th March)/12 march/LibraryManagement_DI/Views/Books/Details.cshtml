@@ -1,0 +1,64 @@
+﻿@model LibraryManagement_DI.Models.Book
+
+<style>
+
+    body {
+        background: linear-gradient(120deg,#89f7fe,#66a6ff);
+        font-family: Arial;
+    }
+
+    .details-container {
+        width: 40%;
+        margin: 120px auto;
+        background: white;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0px 6px 18px rgba(0,0,0,0.3);
+        text-align: center;
+    }
+
+    .details-title {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    .info {
+        font-size: 18px;
+        margin: 10px 0;
+    }
+
+    .back-btn {
+        display: inline-block;
+        margin-top: 25px;
+        padding: 10px 25px;
+        background: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+    }
+
+        .back-btn:hover {
+            background: #0056b3;
+        }
+
+</style>
+
+<div class="details-container">
+
+    <h2 class="details-title">📖 Book Details</h2>
+
+    <div class="info">
+        <strong>Title:</strong> @Model.Title
+    </div>
+
+    <div class="info">
+        <strong>Author:</strong> @Model.Author
+    </div>
+
+    <a asp-controller="Books"
+       asp-action="Index"
+       class="back-btn">
+        Back to Books
+    </a>
+
+</div>

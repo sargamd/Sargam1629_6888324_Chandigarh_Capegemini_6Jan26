@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\customer_products_manytomany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:customer_products_manytomany.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\13 march\\customer_products_manytomany\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0A1432-E243-468B-B4F6-75E2F6191AEF}|Customer_Products_ManytoMany.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:35:42.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:27:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer_Products_ManytoMany.csproj",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Customer_Products_ManytoMany.csproj",
+              "RelativeDocumentMoniker": "Customer_Products_ManytoMany.csproj",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Customer_Products_ManytoMany.csproj",
+              "RelativeToolTip": "Customer_Products_ManytoMany.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T10:26:35.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:26:12.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:23:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T10:23:41.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:25:28.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\13 march\\Customer_Products_ManytoMany\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:25:46.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

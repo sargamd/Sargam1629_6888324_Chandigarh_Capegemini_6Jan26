@@ -1,0 +1,93 @@
+﻿@model List<LibraryManagement_DI.Models.Book>
+
+<style>
+
+    body {
+        background: #f4f7fc;
+        font-family: Arial;
+    }
+
+    .container {
+        width: 85%;
+        margin: auto;
+        margin-top: 40px;
+    }
+
+    .title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .book-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+        gap: 25px;
+    }
+
+    .book-card {
+        background: white;
+        padding: 25px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
+        text-align: center;
+        transition: 0.3s;
+    }
+
+        .book-card:hover {
+            transform: translateY(-5px);
+        }
+
+    .book-title {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .book-author {
+        color: #666;
+        margin-bottom: 20px;
+    }
+
+    .details-btn {
+        padding: 10px 20px;
+        background: #28a745;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+    }
+
+        .details-btn:hover {
+            background: #1e7e34;
+        }
+
+</style>
+
+<div class="container">
+
+    <h2 class="title">📚 Available Books</h2>
+
+    <div class="book-grid">
+
+        @foreach (var book in Model)
+        {
+            <div class="book-card">
+
+                <div class="book-title">@book.Title</div>
+
+                <div class="book-author">
+                    Author: @book.Author
+                </div>
+
+                <a asp-controller="Books"
+                   asp-action="Details"
+                   asp-route-id="@book.Id"
+                   class="details-btn">
+                    View Details
+                </a>
+
+            </div>
+        }
+
+    </div>
+
+</div>

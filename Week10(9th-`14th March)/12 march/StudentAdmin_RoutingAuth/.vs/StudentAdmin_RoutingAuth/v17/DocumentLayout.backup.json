@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\12 march\\studentadmin_routingauth\\studentadmin_routingauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F69BF300-5D94-4CED-BE67-7D175E3A8F27}|StudentAdmin_RoutingAuth.csproj|solutionrelative:studentadmin_routingauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:54:55.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:48:38.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAuthMiddleware.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Middleware\\AdminAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\AdminAuthMiddleware.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Middleware\\AdminAuthMiddleware.cs",
+              "RelativeToolTip": "Middleware\\AdminAuthMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:49:40.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:53:18.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:06:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:48:06.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:50:46.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:03:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:04:57.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:10:29.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:54:06.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentAdmin_RoutingAuth.csproj",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\StudentAdmin_RoutingAuth.csproj",
+              "RelativeDocumentMoniker": "StudentAdmin_RoutingAuth.csproj",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\12 march\\StudentAdmin_RoutingAuth\\StudentAdmin_RoutingAuth.csproj",
+              "RelativeToolTip": "StudentAdmin_RoutingAuth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T16:49:12.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

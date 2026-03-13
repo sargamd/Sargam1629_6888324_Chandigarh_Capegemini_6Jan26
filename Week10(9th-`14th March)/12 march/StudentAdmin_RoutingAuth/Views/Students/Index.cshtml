@@ -1,0 +1,112 @@
+﻿@* namespace StudentAdmin_RoutingAuth.Views.Students
+{
+    public class Index
+    {
+    }
+} *@
+
+@model List<string>
+
+
+<style>
+
+body{
+background:linear-gradient(135deg,#89f7fe,#66a6ff);
+font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+width:80%;
+margin:50px auto;
+text-align:center;
+}
+
+.title{
+color:white;
+margin-bottom:30px;
+font-size:32px;
+}
+
+/* student cards */
+.student-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+gap:20px;
+}
+
+.student-card{
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 4px 12px rgba(0,0,0,0.2);
+font-size:18px;
+font-weight:bold;
+transition:0.3s;
+}
+
+.student-card:hover{
+transform:scale(1.05);
+background:#e6f2ff;
+}
+
+/* buttons */
+
+.button-container{
+margin-top:30px;
+}
+
+.btn{
+padding:12px 25px;
+border-radius:8px;
+text-decoration:none;
+font-size:16px;
+margin:10px;
+color:white;
+}
+
+.homebtn{
+background:#28a745;
+}
+
+.adminbtn{
+background:#007bff;
+}
+
+.btn:hover{
+opacity:0.85;
+}
+
+</style>
+
+<div class="container">
+
+<h2 class="title">🎓 Students List</h2>
+
+<div class="student-grid">
+
+@foreach(var s in Model)
+{
+<div class="student-card">
+@s
+</div>
+}
+
+</div>
+
+<div class="button-container">
+
+<a asp-controller="Home"
+   asp-action="Index"
+   class="btn homebtn">
+Back to Home
+</a>
+
+<a asp-controller="Home"
+   asp-action="Login"
+   class="btn adminbtn">
+Admin Login
+</a>
+
+</div>
+
+</div>

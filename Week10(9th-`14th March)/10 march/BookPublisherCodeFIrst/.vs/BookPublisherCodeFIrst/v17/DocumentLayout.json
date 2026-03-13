@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\views\\bookmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:views\\bookmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\views\\bookmodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:views\\bookmodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\views\\bookmodels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:views\\bookmodels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\controllers\\bookmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:controllers\\bookmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\views\\bookmodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:views\\bookmodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\migrations\\20260311094000_publisherandyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:migrations\\20260311094000_publisherandyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\migrations\\20260311091043_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:migrations\\20260311091043_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\views\\bookmodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:views\\bookmodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week10(9th-\u006014th march)\\10 march\\bookpublishercodefirst\\bookpublishercodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA6D903D-10A4-4C82-AA21-2FE77114D2E3}|BookPublisherCodeFIrst.csproj|solutionrelative:bookpublishercodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookModels\\Edit.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BookModels\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T09:49:46.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookModels\\Details.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Details.cshtml",
+              "RelativeToolTip": "Views\\BookModels\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T09:50:54.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T09:52:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookModelsController.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Controllers\\BookModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookModelsController.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Controllers\\BookModelsController.cs",
+              "RelativeToolTip": "Controllers\\BookModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:12:00.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:08:54.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookModels\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Index.cshtml",
+              "RelativeToolTip": "Views\\BookModels\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T09:41:20.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookModels\\Create.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Create.cshtml",
+              "RelativeToolTip": "Views\\BookModels\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T09:50:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Models\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookDbContext.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Models\\BookDbContext.cs",
+              "RelativeToolTip": "Models\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:04:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BookDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BookDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:18:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260311094000_PublisherandYear.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Migrations\\20260311094000_PublisherandYear.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311094000_PublisherandYear.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Migrations\\20260311094000_PublisherandYear.cs",
+              "RelativeToolTip": "Migrations\\20260311094000_PublisherandYear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:40:00.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260311091043_m1.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Migrations\\20260311091043_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311091043_m1.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Migrations\\20260311091043_m1.cs",
+              "RelativeToolTip": "Migrations\\20260311091043_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:10:43.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:00:58.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookModels\\Delete.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\Views\\BookModels\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BookModels\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T09:52:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T09:07:28.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookPublisherCodeFIrst.csproj",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\BookPublisherCodeFIrst.csproj",
+              "RelativeDocumentMoniker": "BookPublisherCodeFIrst.csproj",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week10(9th-\u006014th March)\\10 march\\BookPublisherCodeFIrst\\BookPublisherCodeFIrst.csproj",
+              "RelativeToolTip": "BookPublisherCodeFIrst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T09:01:17.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
