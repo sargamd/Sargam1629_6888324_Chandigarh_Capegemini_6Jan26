@@ -1,0 +1,40 @@
+﻿@* namespace EmployeeProject.Views.Dashboard
+{
+    public class ProjectDashboard
+    {
+    }
+} *@
+
+
+
+@model IEnumerable<EmployeeProject.Models.Project>
+
+<h2>Project Dashboard</h2>
+
+<table border="1">
+
+    <tr>
+        <th>Project ID</th>
+        <th>Project Title</th>
+        <th>View Employees</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+
+            <td>@p.ProjectId</td>
+
+            <td>@p.Title</td>
+
+            <td>
+                <a asp-action="ProjectEmployees"
+                   asp-route-id="@p.ProjectId">
+                    View Employees
+                </a>
+            </td>
+
+        </tr>
+    }
+
+</table>

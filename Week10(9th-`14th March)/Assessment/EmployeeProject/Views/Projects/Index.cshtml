@@ -1,0 +1,30 @@
+﻿@* namespace EmployeeProject.Views.Projects
+{
+    public class Index
+    {
+    }
+} *@
+
+@model IEnumerable<EmployeeProject.Models.Project>
+
+<h2>Projects</h2>
+
+<a asp-action="Create">Create Project</a>
+
+<table border="1">
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Title</td>
+
+            <td>
+                <a asp-action="EmployeesInProject" asp-route-id="@p.ProjectId">
+                    View Employees
+                </a>
+            </td>
+
+        </tr>
+    }
+
+</table>

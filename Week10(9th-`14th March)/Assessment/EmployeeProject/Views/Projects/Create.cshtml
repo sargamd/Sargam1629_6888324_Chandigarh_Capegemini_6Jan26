@@ -1,0 +1,27 @@
+﻿@* namespace EmployeeProject.Views.Projects
+{
+    public class Create
+    {
+    }
+} *@
+
+<h2>Create Project</h2>
+
+<form method="post">
+
+    Title
+
+    <input name="Title" />
+
+    <br />Employees
+
+    @foreach (var e in ViewBag.Employees)
+    {
+        <input type="checkbox" name="employeeIds" value="@e.EmployeeId" /> 
+        @e.Name
+        <br>
+    }
+
+    <button type="submit">Save</button>
+
+</form>

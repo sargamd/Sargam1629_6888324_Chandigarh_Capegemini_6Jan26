@@ -1,0 +1,38 @@
+﻿@* namespace EmployeeProject.Views.Dashboard
+{
+    public class ProjectEmployees
+    {
+    }
+} *@
+
+@model IEnumerable<EmployeeProject.Models.Employee>
+
+<h2>Employees Working on @ViewBag.ProjectName</h2>
+
+<a asp-action="ProjectDashboard">Back to Projects</a>
+
+<br>
+<br>
+
+<table border="1">
+
+    <tr>
+        <th>Employee ID</th>
+        <th>Employee Name</th>
+        <th>Department</th>
+    </tr>
+
+    @foreach (var e in Model)
+    {
+        <tr>
+
+            <td>@e.EmployeeId</td>
+
+            <td>@e.Name</td>
+
+            <td>@e.Department.Name</td>
+
+        </tr>
+    }
+
+</table>

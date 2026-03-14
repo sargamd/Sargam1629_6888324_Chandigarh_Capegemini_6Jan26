@@ -1,0 +1,14 @@
+﻿@* namespace EmployeeProject.Views.Employees
+{
+    public class ProjectsOfEmployee
+    {
+    }
+} *@
+@model IEnumerable<EmployeeProject.Models.Project>
+
+<h2>Projects of Employee</h2>
+
+@foreach (var p in Model)
+{
+    <p>@p.Title</p>
+}
