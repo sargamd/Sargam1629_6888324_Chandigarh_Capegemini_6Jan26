@@ -1,0 +1,40 @@
+﻿@* namespace Student_Registration.Views.Student
+{
+    public class Details
+    {
+    }
+} *@
+
+@model Student_Registration.Models.Student
+
+<h2>Student Details</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <p style="color:green">@TempData["SuccessMessage"]</p>
+}
+
+<table border="1" cellpadding="10">
+
+    <tr>
+        <th>Student ID</th>
+        <td>@Model.Id</td>
+    </tr>
+
+    <tr>
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr>
+        <th>Age</th>
+        <td>@Model.Age</td>
+    </tr>
+
+</table>
+
+<br>
+
+<a asp-action="Register">
+    <button>Register Another Student</button>
+</a>

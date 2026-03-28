@@ -1,0 +1,49 @@
+﻿@* namespace Student_Registration.Views.Student
+{
+    public class Register
+    {
+    }
+} *@
+
+@model Student_Registration.Models.Student
+
+<h2>Student Registration</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <p style="color:green">@TempData["SuccessMessage"]</p>
+}
+
+<form asp-action="Register" method="post">
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <td>Name</td>
+            <td>
+                <input asp-for="Name" />
+                <span asp-validation-for="Name" style="color:red"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Age</td>
+            <td>
+                <input asp-for="Age" />
+                <span asp-validation-for="Age" style="color:red"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <button type="submit">Register</button>
+            </td>
+        </tr>
+
+    </table>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

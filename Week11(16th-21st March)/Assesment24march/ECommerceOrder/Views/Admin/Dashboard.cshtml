@@ -1,0 +1,126 @@
+﻿@* namespace ECommerceOrder.Views.Admin
+{
+    public class Dashboard
+    {
+    }
+} *@
+@model ECommerceOrder.ViewModel.DashboardViewModel
+
+
+<div class="container mt-4">
+
+    <h2 class="text-center mb-4">🚀 Admin Dashboard</h2>
+
+    <!-- STATS CARDS -->
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <div class="card bg-primary text-white shadow">
+                <div class="card-body text-center">
+                    <h5>Total Products</h5>
+                    <h3>@Model.TopProducts.Count</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card bg-warning text-dark shadow">
+                <div class="card-body text-center">
+                    <h5>Pending Orders</h5>
+                    <h3>@Model.PendingOrders.Count</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card bg-success text-white shadow">
+                <div class="card-body text-center">
+                    <h5>Customers</h5>
+                    <h3>@Model.CustomerOrderSummary.Count</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- TOP PRODUCTS -->
+    <div class="card mb-4 shadow">
+        <div class="card-header bg-dark text-white">
+            🔥 Top 5 Selling Products
+        </div>
+        <div class="card-body">
+            <div class="row">
+                @foreach (var p in Model.TopProducts)
+                {
+                    <div class="col-md-3 mb-3">
+                        <div class="card border-0 shadow-sm text-center">
+                            <div class="card-body">
+                                <h6>@p.Name</h6>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- PENDING ORDERS -->
+    <div class="card mb-4 shadow">
+        <div class="card-header bg-warning">
+            ⏳ Pending Orders
+        </div>
+        <div class="card-body">
+            <table class="table table-hover">
+                <tr>
+                    <th>Order ID</th>
+                    <th>Status</th>
+                </tr>
+
+                @foreach (var o in Model.PendingOrders)
+                {
+                    <tr>
+                        <td>#@o.OrderId</td>
+                        <td>
+                            <span class="badge bg-warning text-dark">
+                                @o.ShippingDetail?.Status
+                            </span>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+
+    <!-- CUSTOMER SUMMARY -->
+    <div class="card mb-4 shadow">
+        <div class="card-header bg-success text-white">
+            👥 Customer Order Summary
+        </div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <tr>
+                    <th>Customer</th>
+                    <th>Total Orders</th>
+                </tr>
+
+                @foreach (var item in Model.CustomerOrderSummary)
+                {
+                    <tr>
+                        <td>@item.Key</td>
+                        <td>
+                            <span class="badge bg-success">
+                                @item.Value
+                            </span>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+
+    <!-- LOGOUT BUTTON -->
+    <div class="text-center">
+        <a href="/Account/Logout" class="btn btn-danger btn-lg shadow">
+            🔒 Logout
+        </a>
+    </div>
+
+</div>

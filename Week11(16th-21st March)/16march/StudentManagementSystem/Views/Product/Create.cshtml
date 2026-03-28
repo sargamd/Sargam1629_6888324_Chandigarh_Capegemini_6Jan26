@@ -1,0 +1,18 @@
+﻿@* namespace StudentManagementSystem.Views.Product
+{
+    public class Create
+    {
+    }
+} *@
+
+@model Product
+
+<h2>Add Product</h2>
+
+<form method="post">
+    Id: <input asp-for="Id" /><br>
+    Name: <input asp-for="Name" /><br>
+    Price: <input asp-for="Price" /><br><br>
+
+    <button type="submit">Save</button>
+</form>

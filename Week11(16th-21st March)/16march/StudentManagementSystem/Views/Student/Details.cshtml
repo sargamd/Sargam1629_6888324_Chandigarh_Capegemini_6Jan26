@@ -1,0 +1,18 @@
+﻿@* namespace StudentManagementSystem.Views.Student
+{
+    public class Details
+    {
+    }
+} *@
+@model Student
+
+<h2>Student Details</h2>
+
+@if (TempData["Success"] != null)
+{
+    <p style="color:green">@TempData["Success"]</p>
+}
+
+<p>Name: @Model.Name</p>
+<p>Age: @Model.Age</p>
+<p>Email: @Model.Email</p>

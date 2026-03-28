@@ -1,0 +1,21 @@
+﻿@* namespace EmployeePortal.Views.HR
+{
+    public class EmployeeList
+    {
+    }
+} *@
+@model List<Employee>
+
+<h2>Employee List</h2>
+
+<table border="1">
+    <tr><th>Name</th><th>Dept</th></tr>
+
+    @foreach (var e in Model)
+    {
+        <tr>
+            <td>@e.Name</td>
+            <td>@e.Department</td>
+        </tr>
+    }
+</table>

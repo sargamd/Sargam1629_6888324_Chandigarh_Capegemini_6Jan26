@@ -1,0 +1,25 @@
+﻿@* namespace StudentManagementSystem.Views.Product
+{
+    public class Index
+    {
+    }
+} *@
+
+@model List<Product>
+
+<h2>Products</h2>
+
+<a href="/Product/Create">Add Product</a>
+
+<table border="1">
+    <tr><th>ID</th><th>Name</th><th>Price</th></tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Price</td>
+        </tr>
+    }
+</table>

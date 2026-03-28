@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\16march\\sessionbasedloginsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\16march\\sessionbasedloginsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\16march\\sessionbasedloginsystem\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\16march\\sessionbasedloginsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\16march\\sessionbasedloginsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\16march\\sessionbasedloginsystem\\sessionbasedloginsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6ACECF3-632B-486D-A940-D458CCA7BE2E}|SessionBasedLoginSystem.csproj|solutionrelative:sessionbasedloginsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T05:48:53.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:30:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:31:02.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T05:42:10.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T05:34:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionBasedLoginSystem.csproj",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\SessionBasedLoginSystem.csproj",
+              "RelativeDocumentMoniker": "SessionBasedLoginSystem.csproj",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\16march\\SessionBasedLoginSystem\\SessionBasedLoginSystem.csproj",
+              "RelativeToolTip": "SessionBasedLoginSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T05:31:27.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

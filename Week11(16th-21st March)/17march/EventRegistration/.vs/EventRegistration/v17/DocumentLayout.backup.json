@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\pages\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\pages\\events\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\pages\\events\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\pages\\events\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\events\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\data\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:data\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\eventregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:eventregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|d:\\sargam\\dotnet\\sargam_cu_capegemini\\daywise handson\\week11(16th-21st march)\\17march\\eventregistration\\models\\eventregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC88E84F-6CAD-4516-A454-961ED74D94B7}|EventRegistration.csproj|solutionrelative:models\\eventregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Events\\Index.cshtml.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Events\\Index.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:00:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Events\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Events\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:00:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Events\\Register.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Events\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:00:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:02:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T06:01:04.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Events\\Register.cshtml.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Pages\\Events\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Events\\Register.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:07:14.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\SessionHelper.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "Helpers\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:19:36.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Data\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\FakeDatabase.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Data\\FakeDatabase.cs",
+              "RelativeToolTip": "Data\\FakeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:59:17.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:01:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventRegister.cs",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Models\\EventRegister.cs",
+              "RelativeDocumentMoniker": "Models\\EventRegister.cs",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\Models\\EventRegister.cs",
+              "RelativeToolTip": "Models\\EventRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:58:54.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventRegistration",
+              "DocumentMoniker": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\EventRegistration.csproj",
+              "RelativeDocumentMoniker": "EventRegistration.csproj",
+              "ToolTip": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week11(16th-21st March)\\17march\\EventRegistration\\EventRegistration.csproj",
+              "RelativeToolTip": "EventRegistration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T05:59:00.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

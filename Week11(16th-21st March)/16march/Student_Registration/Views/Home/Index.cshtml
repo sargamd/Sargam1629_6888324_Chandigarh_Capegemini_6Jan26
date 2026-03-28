@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 style="text-align:center;color:darkblue;">Student Management Dashboard</h2>
+
+<table border="1" cellpadding="20" align="center" style="margin-top:40px;border-collapse:collapse;width:40%;text-align:center;">
+
+    <tr style="background-color:lightblue;font-weight:bold;">
+        <td>Action</td>
+        <td>Navigate</td>
+    </tr>
+
+    <tr>
+        <td>Register New Student</td>
+        <td>
+            <a asp-controller="Student" asp-action="Register">
+                <button style="background-color:green;color:white;padding:10px 20px;border:none;border-radius:5px;">
+                    Register Student
+                </button>
+            </a>
+        </td>
+    </tr>
+
+    @* <tr>
+        <td>View Student Details</td>
+        <td>
+            <a asp-controller="Student" asp-action="Details" asp-route-id="1">
+                <button style="background-color:blue;color:white;padding:10px 20px;border:none;border-radius:5px;">
+                    View Details
+                </button>
+            </a>
+        </td>
+    </tr> *@
+
+</table>

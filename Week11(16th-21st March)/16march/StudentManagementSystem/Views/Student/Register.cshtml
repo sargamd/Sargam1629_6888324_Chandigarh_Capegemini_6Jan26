@@ -1,0 +1,22 @@
+﻿@* namespace StudentManagementSystem.Views.Student
+{
+    public class Register
+    {
+    }
+} *@
+
+@model Student
+
+<h2>Register Student</h2>
+
+<form method="post">
+    Name: <input asp-for="Name" /> <span asp-validation-for="Name"></span><br><br>
+    Age: <input asp-for="Age" /> <span asp-validation-for="Age"></span><br><br>
+    Email: <input asp-for="Email" /> <span asp-validation-for="Email"></span><br><br>
+
+    <button type="submit">Register</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

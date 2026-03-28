@@ -1,0 +1,105 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.csproj.AssemblyReference.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ProductApi.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProductApi.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProductApi.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/scopedcss/bundle/ProductApi.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.csproj.Up2Date
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/refint/ProductApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ref/ProductApi.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\appsettings.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\ProductApi.staticwebassets.endpoints.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\ProductApi.exe
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\ProductApi.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+C:\Users\sargam\Downloads\Archive (1)\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\appsettings.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\ProductApi.staticwebassets.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\ProductApi.exe
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\ProductApi.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+D:\sargam\dotNet\Sargam_CU_Capegemini\Daywise HandsOn\Week12(23rd-28th March)\25March\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll

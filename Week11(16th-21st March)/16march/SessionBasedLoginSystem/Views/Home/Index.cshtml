@@ -1,0 +1,69 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+} *@
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+
+@* @{
+    ViewBag.Title = "Home";
+}
+
+<h2 style="text-align:center;">🏠 Welcome to Product Management System</h2>
+
+<div style="text-align:center; margin-top:40px;">
+
+    <p>Click below to login and continue:</p>
+
+    <a href="/Account/Login"
+       style="padding:12px 25px; background-color:green; color:white;
+              text-decoration:none; border-radius:8px; font-size:18px;">
+        🔐 Go to Login
+    </a>
+
+    @using Microsoft.AspNetCore.Http
+
+    @if (Context.Session.GetString("Username") != null)
+    {
+        <h3 style="text-align:center; color:blue;">
+            Welcome, @Context.Session.GetString("Username")
+        </h3>
+    }
+
+</div> *@
+
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewBag.Title = "Home";
+    var user = Context.Session.GetString("Username");
+}
+
+<h2 style="text-align:center;">🏠 Home Page</h2>
+
+@if (user != null)
+{
+    <h3 style="text-align:center; color:blue;">
+        Welcome, @user 👋
+    </h3>
+}
+
+<div style="display:flex; justify-content:center; gap:20px; margin-top:40px;">
+
+    <!-- Login Button -->
+    <a href="/Account/Login"
+       style="padding:12px 25px; background-color:green; color:white; text-decoration:none; border-radius:8px;">
+        🔐 Login
+    </a>
+
+    <!-- Dashboard Button -->
+    <a href="/Account/Dashboard"
+       style="padding:12px 25px; background-color:blue; color:white; text-decoration:none; border-radius:8px;">
+        📊 Dashboard
+    </a>
+
+</div>
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3aFtinuCwA=",
+  "success": true,
+  "projectFilePath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week12(23rd-28th March)\\26March\\MaskingInfo\\MaskingInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sargam\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\sargam\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ECommerceOrder.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="container mt-4">
+
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="fw-bold">Categories</h2>
+        <a asp-action="Create" class="btn btn-success">+ Create New</a>
+    </div>
+
+    <!-- Card Wrapper -->
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+
+            <table class="table table-striped table-hover table-bordered align-middle text-center mb-0">
+
+                <thead class="table-dark">
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Name)</th>
+                        <th style="width: 220px;">Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="fw-semibold">
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.CategoryId" class="btn btn-sm btn-warning me-1">
+                                    Edit
+                                </a>
+
+                                <a asp-action="Details" asp-route-id="@item.CategoryId" class="btn btn-sm btn-info me-1">
+                                    View
+                                </a>
+
+                                <a asp-action="Delete" asp-route-id="@item.CategoryId" class="btn btn-sm btn-danger">
+                                    Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+
+</div>

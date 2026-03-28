@@ -1,0 +1,22 @@
+﻿@* namespace EmployeePortal.Views.Employee
+{
+    public class Register
+    {
+    }
+} *@
+@model Employee
+
+<h2>Register Employee</h2>
+
+<form method="post">
+    Name: <input asp-for="Name" /> <span asp-validation-for="Name"></span><br>
+    Age: <input asp-for="Age" /> <span asp-validation-for="Age"></span><br>
+    Email: <input asp-for="Email" /> <span asp-validation-for="Email"></span><br>
+    Department: <input asp-for="Department" /> <span asp-validation-for="Department"></span><br><br>
+
+    <button type="submit">Register</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
